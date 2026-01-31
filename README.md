@@ -1,4 +1,4 @@
-# Zeru AI – Assignment 2
+# End-To-End-Machine-Learning-Pipeline
 
 This project is my solution for Assignment 2 of the Zeru AI internship.  
 The main goal was to collect contract addresses for DeFi protocols, fetch their ABIs, extract events, and assemble everything into a final JSON file.
